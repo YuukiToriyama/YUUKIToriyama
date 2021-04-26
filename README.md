@@ -3,8 +3,12 @@
   - Leaflet.js, p5.js, 
   - React, Snowpack
 - やってみたいこと
+  - RustでWebAssembly
+    - フロントエンド全部Rustで書きたい
   - Express&mongoDBでWebAPIをつくる
+    - マイクロサービスをつくってつなげて遊びたい
   - コンパイラの自作
+    - AltJSみたいのでいいからつくってみたい
 - 触ったことのある言語
   - JavaScript (まあまあ書ける)
   - Ruby (初心者レヴェル)
