@@ -1,16 +1,13 @@
-### はじめまして
-- 最近の興味
-  - Leaflet.js, p5.js, 
-  - React, Snowpack
-- やってみたいこと
-  - RustでWebAssembly
-    - フロントエンド全部Rustで書きたい
-  - Express&mongoDBでWebAPIをつくる
-    - マイクロサービスをつくってつなげて遊びたい
-  - コンパイラの自作
-    - AltJSみたいのでいいからつくってみたい
-- 触ったことのある言語
-  - JavaScript (まあまあ書ける)
-  - Ruby (初心者レヴェル)
-  - C/C++ (最近始めた)
-- 趣味で始めたプログラミングですが、仕事に出来たらいいなと思っています
+# Thank you for visiting my profile🐣
+
+I am Yuuki Toriyama, an amateur programmer. Please call me ToriChan!
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuukitoriyama&theme=github)   
+
+I'm interested in WebGIS(geographic information systems). I love Leaflet.js and MapLibreGLJS.  
+My favorite language is TypeScript. I always use VSCode on my cute Ubuntu laptop.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuukitoriyama&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuukitoriyama&theme=github) 
+
+I speak in Japanese, but I'm studying English. PRs in English are welcome!  
