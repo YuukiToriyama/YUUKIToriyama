@@ -1,6 +1,6 @@
-# Thank you for visiting my profile🐣
+# Thank you for visiting my profile🦜
 
-I am Yuuki Toriyama, an amateur programmer. Please call me ToriChan!
+I am Yuuki Toriyama, a trainee programmer. Please call me ToriChan!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuukitoriyama&theme=github)   
 
